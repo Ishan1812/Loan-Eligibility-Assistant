@@ -1,0 +1,31 @@
+Loan-Policy-Rules:
+
+1. Minimum Salary Requirement:
+   The applicant must have a minimum monthly in-hand salary of ₹25,000.
+
+2. CIBIL/Credit Score Criteria:
+   - A minimum Credit Score of 700 is required for loan eligibility.
+   - Scores above 800 are considered excellent and may qualify for lower interest rates.
+
+3. Debt-to-Income (DTI) Ratio:
+   The maximum allowed Debt-to-Income (DTI) ratio is 55%. This means the sum of all existing EMIs plus the proposed new EMI should not exceed 55% of the monthly salary.
+
+4. Interest Rate Determination:
+   - Base Interest Rate: 13% per annum.
+   - For Credit Score > 750: 11% per annum.
+   - For Credit Score > 800: 9% per annum.
+
+5. Maximum Loan Amount Eligibility:
+   The maximum loan amount sanctioned is capped at 20 times the applicant's monthly salary, subject to DTI constraints.
+
+6. Loan Tenure:
+   - Minimum Tenure: 1 year.
+   - Maximum Tenure: 5 years (60 months).
+   - Tenure cannot exceed the retirement age of the applicant (assumed 60 years).
+
+7. Employment Type:
+   Loans are primarily available for Salaried individuals with at least 1 year of continuous employment. Self-employed individuals require 2 years of business continuity proof (ITR).
+
+8. Foreclosure and Prepayment:
+   - No foreclosure charges after 12 EMIs have been paid.
+   - Prepayment allowed up to 25% of principal outstanding once a year without penalty.
