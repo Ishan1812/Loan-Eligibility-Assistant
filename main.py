@@ -184,7 +184,7 @@ def review_response(state: LoanState):
         Suggested Plan: {suggested_plan}
         
         Create a clean, professional response.
-        with best regards from Ishan Garg, Loan Officer, LTIMindtree Bank of India
+        with best regards from Ishan Garg, Loan Officer, Bank of India
         """)
     ])
     
@@ -232,3 +232,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Error during execution: {e}")
         print("Ensure Ollama is running and 'mistral' model is available.")
+
